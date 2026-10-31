@@ -1,4 +1,4 @@
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&random=false&width=620&lines=Hello+%2C+I%27m+linguo2625469;Go+%2F+Backend+%2F+Automation;Building+tools+that+just+work." alt="typing" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&random=false&width=620&lines=Hello+%2C+I%27m+linguo2625469;Node.js+%2F+Go+%2F+Frontend+Developer;WeChat+Mini+Program+%26+Reverse+Engineering" alt="typing" />
 
 <div align="center">
 
@@ -13,18 +13,35 @@
 
 ### 👋 关于我
 
-- 🧩 后端 / 网关 / 自动化工具开发者，喜欢把麻烦的事做成「一键的」
-- 🛠️ 主力 **Go**，顺手写原生 JS / HTML / CSS，日常 Docker 部署
-- 🎯 关注点：账号池调度、错误分类、观测面板、把重复劳动自动化
+- 🔧 全栈开发：**Node.js / Go** 后端为主，前端一把梭
+- 📱 深耕**微信小程序**开发与逆向——懂协议，也懂调试
+- 🧰 个人作品：**小程序调试工具** 等
+- 🎯 信条：能自动化的绝不手动，好的工具自己会说话
 - 📮 欢迎交流，好的 idea 比代码更值钱
 
 ### 🧰 技术栈
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=go,js,ts,html,css,docker,linux,bash,git,githubactions,md&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=go,nodejs,js,ts,html,css,docker,linux,bash,git,githubactions,md&theme=dark)](https://skillicons.dev)
 
 </div>
+
+<div align="center">
+
+![WeChat MiniProgram](https://img.shields.io/badge/微信小程序-开发_%26逆向-07C160?style=for-the-badge&logo=wechat&logoColor=white)
+![Reverse](https://img.shields.io/badge/协议分析-逆向工程-8B5CF6?style=for-the-badge&logo=hackaday&logoColor=white)
+
+</div>
+
+### 🚀 个人作品
+
+| 作品 | 说明 |
+| --- | --- |
+| 🧰 **小程序调试工具** | 微信小程序开发调试利器 <!-- 有链接后补：[名称](链接) + 截图 --> |
+| 🚧 更多作品 | 整理中… |
+
+
 
 ### 📊 GitHub 统计
 
