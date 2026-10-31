@@ -48,12 +48,10 @@
 
 ### ☕ 赞赏
 
-如果我的开源项目帮到了你，可以请我喝杯咖啡（完全自愿，谢谢支持 🙏）：
+如果我的开源项目帮到了你，编码不易，可以请我喝杯霸王茶姬（完全自愿，谢谢支持 🙏）：
 
 <div align="center">
-	<img src="assets/donate-wechat.png" width="220" alt="微信赞赏" />
-	<img src="assets/donate-alipay.png" width="220" alt="支付宝赞赏" />
+	<img src="assets/donate-wechat.jpg" width="260" alt="微信赞赏码" />
 </div>
 
-<!-- ↑ 赞赏码图片：把你的收款码保存为 assets/donate-wechat.png 和 assets/donate-alipay.png
-     （只放一种就删掉另一个 <img> 标签，避免显示破图） -->
+<!-- 微信长按 / 扫码即可赞赏；换图直接覆盖 assets/donate-wechat.jpg -->
