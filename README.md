@@ -28,12 +28,16 @@
 
 ### 📊 GitHub 统计
 
+<!-- vercel 公共实例（github-readme-stats）长期限流/不可达，两张卡先注释。
+     想恢复：一键部署自己的免费实例（Deploy 按钮：https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats），
+     部署完成后把下面两个 URL 的域名换成你的 xxx.vercel.app 即可。
 <div align="center">
 	<img height="158" src="https://github-readme-stats.vercel.app/api?username=linguo2625469&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
 	<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linguo2625469&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs" />
 </div>
+-->
 <div align="center">
-	<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=linguo2625469&theme=tokyonight&hide_border=true" alt="streak" />
+	<img width="70%" src="https://streak-stats.demolab.com/?user=linguo2625469&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 <!-- 🐍 贪吃蛇动画：首次推送后在 Actions 手动跑一次 "generate snake"（或等每日定时），
